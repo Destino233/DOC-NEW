@@ -1,0 +1,20 @@
+{
+  "id": "fakeplayer",
+  "title": "服务器假人使用方法",
+  "description": "Some content with some Markdown syntax.",
+  "source": "@site/docs/fakeplayer.mdx",
+  "sourceDirName": ".",
+  "slug": "/fakeplayer",
+  "permalink": "/docs/fakeplayer",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/fakeplayer.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "FAQ",
+  "previous": {
+    "title": "服务器配置文件[Debug用]",
+    "permalink": "/docs/getting-started/config"
+  }
+}

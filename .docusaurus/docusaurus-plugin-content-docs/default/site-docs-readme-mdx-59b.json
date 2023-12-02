@@ -1,0 +1,20 @@
+{
+  "id": "README",
+  "title": "欢迎来到FAQ朝樱沐文档",
+  "description": "点击侧边栏查看详情",
+  "source": "@site/docs/README.mdx",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/docs/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/README.mdx",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "FAQ",
+  "next": {
+    "title": "入服指南 | FAQ-朝樱沐",
+    "permalink": "/docs/getting-started/intro"
+  }
+}

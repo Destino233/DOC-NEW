@@ -1,0 +1,76 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "FAQ": [
+      {
+        "type": "link",
+        "label": "欢迎来到FAQ朝樱沐文档",
+        "href": "/docs/",
+        "docId": "README",
+        "unlisted": false
+      },
+      {
+        "type": "category",
+        "label": "Getting Started",
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "入服指南 | FAQ-朝樱沐",
+            "href": "/docs/getting-started/intro",
+            "docId": "getting-started/intro",
+            "unlisted": false
+          },
+          {
+            "type": "link",
+            "label": "服务器配置文件[Debug用]",
+            "href": "/docs/getting-started/config",
+            "docId": "getting-started/config",
+            "unlisted": false
+          }
+        ],
+        "collapsible": true
+      },
+      {
+        "type": "link",
+        "label": "服务器假人使用方法",
+        "href": "/docs/fakeplayer",
+        "docId": "fakeplayer",
+        "unlisted": false
+      }
+    ]
+  },
+  "docs": {
+    "fakeplayer": {
+      "id": "fakeplayer",
+      "title": "服务器假人使用方法",
+      "description": "Some content with some Markdown syntax.",
+      "sidebar": "FAQ"
+    },
+    "getting-started/config": {
+      "id": "getting-started/config",
+      "title": "服务器配置文件[Debug用]",
+      "description": "服务器基本概况",
+      "sidebar": "FAQ"
+    },
+    "getting-started/intro": {
+      "id": "getting-started/intro",
+      "title": "入服指南 | FAQ-朝樱沐",
+      "description": "2023年11月19日",
+      "sidebar": "FAQ"
+    },
+    "README": {
+      "id": "README",
+      "title": "欢迎来到FAQ朝樱沐文档",
+      "description": "点击侧边栏查看详情",
+      "sidebar": "FAQ"
+    }
+  }
+}
