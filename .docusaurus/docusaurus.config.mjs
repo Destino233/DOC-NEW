@@ -11,8 +11,8 @@ export default {
   "baseUrl": "/",
   "organizationName": "facebook",
   "projectName": "docusaurus",
-  "onBrokenLinks": "log",
-  "onBrokenMarkdownLinks": "log",
+  "onBrokenLinks": "ignore",
+  "onBrokenMarkdownLinks": "ignore",
   "i18n": {
     "defaultLocale": "zh-Hans",
     "locales": [
