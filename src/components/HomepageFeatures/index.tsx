@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/ico.svg').default,
     description: (
       <>
-        朝樱沐子服务器<code>FAQ生电服</code>由<code>Leaves服务端</code>强劲支持
+        <code>FAQ生电服</code>由<code>Leaves服务端/Fabric</code>强劲支持
       </>
     ),
   },

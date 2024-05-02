@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'FAQ WIKI',
-  tagline: '关于FAQ/朝樱沐——都在这里',
+  tagline: '关于FAQ——都在这里',
   favicon: '📕',
 
   // Set the production url of your site here
@@ -103,10 +103,6 @@ const config: Config = {
         {
           title: '社区',
           items: [
-            {
-              label: 'QQ群（朝樱沐主群）',
-              href: 'https://qm.qq.com/cgi-bin/qm/qr?k=pWlpFnfg0dY-XLJj2bvYjUXoJOjbMFbJ&jump_from=webapi&authKey=rLqI7AMJ+NGs+987ukQCAMDtslETJzP7Fh4vNQnzR34UABTUGpP/37PMrAJ1PmrW',
-            },
             {
               label: 'QQ群（朝樱沐子服FAQ生电服）',
               href: 'https://qm.qq.com/cgi-bin/qm/qr?k=8FmqBMwJh5UH1n0P60sAUE0J7ZwjLZMo&jump_from=webapi&authKey=auDSuOH6OQZev+SFL+NIe6N0AGzsAuON6EFHNCzjEw1oG5L2dVOmU4yGRXQkKWb/',
